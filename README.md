@@ -1,4 +1,5 @@
-# Eye-Movement-Excercise
+# Eyes
+## Eye-Movement-Excercise
 
 The task is to add a "eye" element and have that element follow the mouse position on the screen using the mouse events.
 
