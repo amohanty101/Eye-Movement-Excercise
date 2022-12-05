@@ -1,5 +1,8 @@
 # Eyes
 ## Eye-Movement-Excercise
+<img src ="./eye.png"
+	width="300" 
+     	/>
 
 The task is to add a "eye" element and have that element follow the mouse position on the screen using the mouse events.
 
@@ -14,3 +17,5 @@ How to Run: Includes 3 files
 Roadmap of future improvements: 
 
 License information:
+
+
